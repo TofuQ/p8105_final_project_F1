@@ -2,7 +2,7 @@
 title: "Proposal"
 author: "Angela Lin, Haochen Yu, Jicong Zhang, Lanlan Qing"
 date: "2025-11-05"
-output: pdf_document
+output: 
 ---
 
 ### Group member
@@ -16,7 +16,9 @@ Statistical Analysis of Accident-Prone Factors in Formula 1 World Championship -
 ### Motivation
 
   Formula 1 is one of the most technologically advanced and data-driven sports in the world, yet it remains inherently dangerous due to the extreme speeds and physical limits involved. Understanding the factors that contribute to car accidents in Formula 1 is essential not only for improving driver safety but also for enhancing race strategy, track design, and vehicle engineering.
+  
   In this project, we would like to know how variables such as driver age, city and manufacturers are related to the occurrence of Formula 1 accidents. Understanding these relationships can help identify patterns—for example, whether younger or older drivers are more prone to accidents, whether certain tracks or cities have higher crash rates, or whether specific cars tend to be involved in more incidents.
+  
   Our goal is to better understand the interplay between human, environmental, and technical factors in Formula 1 safety, contributing to both improved race conditions and more informed data analysis practices.
   
 ### Intended final products
