@@ -23,8 +23,12 @@ Statistical Analysis of Accident-Prone Factors in Formula 1 World Championship -
   
 ### Intended final products
 
-1. Exploratory Data Analysis
-2. Data visualizations
+1. Exploratory Data Analysis (Box plot, Bar graph, Scatter plot)
+
+2. Interactive data visualization (Shiny App)
+
+3. Statistical analysis (Hypothesis Test, Regression)
+
 
 ### Anticipated data source
 
